@@ -1,0 +1,29 @@
+{
+  "name": "aco",
+  "version": "1.0.0",
+  "description": "aco simulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtalhas/aco.git"
+  },
+  "keywords": [
+    "aco",
+    "simulation"
+  ],
+  "author": "mtalhas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtalhas/aco/issues"
+  },
+  "homepage": "https://github.com/mtalhas/aco#readme",
+  "dependencies": {
+    "ant-colony-optimization": "^1.1.2",
+    "babel": "^6.23.0",
+    "koa": "^2.4.1",
+    "netsim": "^1.0.4"
+  }
+}
