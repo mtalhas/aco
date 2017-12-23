@@ -2,6 +2,6 @@ var koa = require('koa');
 var ants = require('ants');
 
 
-console.log("Hello World");
-var hello = "Hello World from a var";
+
+var hello = 'Hello World';
 console.log(hello);
